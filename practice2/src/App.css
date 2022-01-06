@@ -21,4 +21,27 @@ button:hover{
 
 }
 
-                     
+                       /*END CSS FOR INCREMENT JAVASCRIPT FILE */
+
+
+                        /* CSS FOR GETTIME JAVASCRIPT FILE */
+                        .main1{
+                          width: 1350px;
+                          height: 640px;
+                          display: flex;
+                          flex-direction: column;
+                          align-items: center;
+                          justify-content: center;
+                        }btn{
+                          width: 200px;
+                          height: 30px;
+                          background-color:blueviolet;
+                          color: white;
+                          border-radius: 10px;
+                          cursor: pointer;
+                       }
+                       btn:hover{
+                         background-color: white;
+                         color: blueviolet;
+                       
+                       }
