@@ -60,3 +60,22 @@ button:hover{
    align-items: center;
    justify-content: center;
  }                        
+
+                         /*END CSS FOR GETTIME JAVASCRIPT FILE */
+
+
+                           /* CSS FOR EVENTS JAVASCRIPT FILE */
+
+
+
+
+
+                           .main5{
+                            width: 1350px;
+                            height: 640px;
+                            background-color: whitesmoke;
+                            display: flex;
+                            align-items: center;
+                            justify-content: center;
+                          }    
+
